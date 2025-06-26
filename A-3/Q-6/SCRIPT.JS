@@ -1,3 +1,7 @@
+
+// create a object that name with aice and age is 22 and course is computer science and convert it into json string
+lajhhjihbj
+
 let student = {
   name: "Alice",
   age: 22,
